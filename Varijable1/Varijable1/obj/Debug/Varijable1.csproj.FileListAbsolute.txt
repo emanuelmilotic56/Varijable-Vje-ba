@@ -1,0 +1,7 @@
+C:\Users\Učenik 1\source\repos\Varijable1\Varijable1\bin\Debug\Varijable1.exe.config
+C:\Users\Učenik 1\source\repos\Varijable1\Varijable1\bin\Debug\Varijable1.exe
+C:\Users\Učenik 1\source\repos\Varijable1\Varijable1\bin\Debug\Varijable1.pdb
+C:\Users\Učenik 1\source\repos\Varijable1\Varijable1\obj\Debug\Varijable1.csprojAssemblyReference.cache
+C:\Users\Učenik 1\source\repos\Varijable1\Varijable1\obj\Debug\Varijable1.csproj.CoreCompileInputs.cache
+C:\Users\Učenik 1\source\repos\Varijable1\Varijable1\obj\Debug\Varijable1.exe
+C:\Users\Učenik 1\source\repos\Varijable1\Varijable1\obj\Debug\Varijable1.pdb
